@@ -16,7 +16,7 @@ This project simulates a real-world business intelligence workflow used by analy
 
 ## Tech Stack
 
-* SQL (executed within Python notebook using Pandas workflow)
+* SQL (executed within Python notebook using Pandas/SQLite workflow)
 * Python (Pandas for data cleaning and feature engineering)
 * Power BI (dashboard development and visualization)
 
