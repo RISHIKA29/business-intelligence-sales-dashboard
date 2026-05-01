@@ -1,16 +1,22 @@
 # Business Intelligence Sales Dashboard
 
+End-to-end data analysis project using SQL, Python, and Power BI.
+
+---
+
 ## Overview
 
-This project demonstrates an end-to-end data analysis workflow, transforming raw sales data into actionable insights using SQL, Python, and Power BI.
+This project demonstrates a complete data analysis workflow, transforming raw sales data into actionable business insights.
 
-It covers the full lifecycle of a data analysis project - from data cleaning and transformation to visualization and business reporting.
+It covers the full lifecycle of a data analysis project — from data cleaning and transformation to visualization and business reporting. SQL queries were written and executed within a Python notebook as part of the data preparation process.
+
+This project simulates a real-world business intelligence workflow used by analysts to support decision-making.
 
 ---
 
 ## Tech Stack
 
-* SQL (data extraction and transformation)
+* SQL (executed within Python notebook using Pandas workflow)
 * Python (Pandas for data cleaning and feature engineering)
 * Power BI (dashboard development and visualization)
 
@@ -19,9 +25,8 @@ It covers the full lifecycle of a data analysis project - from data cleaning and
 ## Project Structure
 
 * data/ → raw and cleaned datasets
-* sql/ → SQL queries
-* notebooks/ → data cleaning and transformation
-* dashboards/sales_dashboard.pbix → Power BI dashboard file
+* notebooks/ → data cleaning, transformation, and SQL queries
+* dashboards/ → Power BI dashboard file (.pbix)
 * images/ → dashboard screenshots
 
 ---
@@ -29,13 +34,18 @@ It covers the full lifecycle of a data analysis project - from data cleaning and
 ## Dashboard Features
 
 * KPI tracking:
-  - Revenue: $2.3M
-  - Profit: $286K
-  - Profit Margin: 12.03%
-  - Total Orders: 5,009
+
+  * Revenue: $2.3M
+  * Profit: $286K
+  * Profit Margin: 12.03%
+  * Total Orders: 5,009
+
 * Monthly sales trend analysis
+
 * Sales comparison by category
+
 * Top-performing products using Top N filtering
+
 * Region-based filtering using slicers
 
 ---
@@ -44,18 +54,29 @@ It covers the full lifecycle of a data analysis project - from data cleaning and
 
 * Sales increase toward the end of the year
 * Technology category generates the highest revenue
-* A small group of products contributes a large portion of sales
-* Profit margin remains stable around 12%
+* A small group of products contributes a large portion of total sales
+* Profit margin remains stable at around 12%
 
 ---
 
 ## Dashboard Preview
 
-<img width="1674" height="936" alt="image" src="https://github.com/user-attachments/assets/223d3f5b-240b-4895-8c43-4c07dc6888c6" />
-
+![Sales Dashboard](images/dashboard.png)
 
 ---
 
 ## Business Use Case
 
-This dashboard enables stakeholders to monitor performance, identify trends, and make data-driven decisions efficiently.
+This dashboard enables stakeholders to:
+
+* Monitor business performance in real time
+* Identify high-performing products and categories
+* Analyze seasonal trends
+* Make data-driven decisions efficiently
+
+---
+
+## Notes
+
+All SQL queries used in this project are included within the Jupyter notebook:
+notebooks/sales_analysis.ipynb
