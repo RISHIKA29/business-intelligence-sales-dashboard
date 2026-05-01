@@ -5,12 +5,9 @@ End-to-end data analysis project using SQL, Python, and Power BI.
 ---
 
 ## Overview
+This project analyzes retail sales data to identify revenue drivers, evaluate profitability, and support business decision-making.
 
-This project demonstrates a complete data analysis workflow, transforming raw sales data into actionable business insights.
-
-It covers the full lifecycle of a data analysis project — from data cleaning and transformation to visualization and business reporting. SQL queries were written and executed within a Python notebook as part of the data preparation process.
-
-This project simulates a real-world business intelligence workflow used by analysts to support decision-making.
+The workflow includes data cleaning, transformation, and analysis using Python and SQL, followed by building an interactive Power BI dashboard to track key performance metrics.
 
 ---
 
@@ -19,6 +16,7 @@ This project simulates a real-world business intelligence workflow used by analy
 * SQL (executed within Python notebook using Pandas/SQLite workflow)
 * Python (Pandas for data cleaning and feature engineering)
 * Power BI (dashboard development and visualization)
+* Data processing involved handling missing values, removing duplicates, and creating derived features such as profit margin and time-based attributes.
 
 ---
 
@@ -51,11 +49,10 @@ This project simulates a real-world business intelligence workflow used by analy
 ---
 
 ## Key Insights
-
-* Sales increase toward the end of the year
-* Technology category generates the highest revenue
-* A small group of products contributes a large portion of total sales
-* Profit margin remains stable at around 12%
+- Sales show a consistent upward trend in the final quarter, indicating strong seasonal demand  
+- The Technology category contributes the highest share of total revenue  
+- A small subset of products generates a disproportionate amount of total sales  
+- Higher discount levels are associated with reduced profitability
 
 ---
 
