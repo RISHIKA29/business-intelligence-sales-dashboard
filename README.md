@@ -58,7 +58,7 @@ The workflow includes data cleaning, transformation, and analysis using Python a
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/dashboard.png)
+<img width="1663" height="935" alt="image" src="https://github.com/user-attachments/assets/129cede5-d862-494c-96a7-37b960f87ca3" />
 
 ---
 
