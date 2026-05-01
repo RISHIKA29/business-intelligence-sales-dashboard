@@ -28,7 +28,11 @@ It covers the full lifecycle of a data analysis project - from data cleaning and
 
 ## Dashboard Features
 
-* KPI tracking: revenue, profit, profit margin, and total orders
+* KPI tracking:
+  - Revenue: $2.3M
+  - Profit: $286K
+  - Profit Margin: 12.03%
+  - Total Orders: 5,009
 * Monthly sales trend analysis
 * Sales comparison by category
 * Top-performing products using Top N filtering
