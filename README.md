@@ -21,7 +21,7 @@ It covers the full lifecycle of a data analysis project - from data cleaning and
 * data/ → raw and cleaned datasets
 * sql/ → SQL queries
 * notebooks/ → data cleaning and transformation
-* dashboards/ → Power BI dashboard file
+* dashboards/sales_dashboard.pbix → Power BI dashboard file
 * images/ → dashboard screenshots
 
 ---
