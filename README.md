@@ -47,7 +47,8 @@ It covers the full lifecycle of a data analysis project - from data cleaning and
 
 ## Dashboard Preview
 
-(Add your screenshot here)
+<img width="1674" height="936" alt="image" src="https://github.com/user-attachments/assets/223d3f5b-240b-4895-8c43-4c07dc6888c6" />
+
 
 ---
 
