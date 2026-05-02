@@ -73,6 +73,16 @@ This dashboard enables stakeholders to:
 
 ---
 
+## Business Impact
+This dashboard helps stakeholders:
+- Monitor revenue, profit, margin, and order volume
+- Identify top-performing products and categories
+- Analyze monthly sales trends
+- Use region-based filtering for faster business review
+- Reduce manual reporting by presenting key metrics in one dashboard
+
+---
+
 ## Notes
 
 All SQL queries used in this project are included within the Jupyter notebook:
