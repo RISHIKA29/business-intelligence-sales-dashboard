@@ -1,6 +1,6 @@
 # Business Intelligence Sales Dashboard
 
-End-to-end data analysis project using SQL, Python, and Power BI.
+End-to-end BI project using SQL, Python, and Power BI to analyze revenue, profit, customer trends, and KPI performance.
 
 ---
 
